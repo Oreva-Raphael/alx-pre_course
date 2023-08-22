@@ -1,2 +1,2 @@
 My first readme
-The one and only time I will be doing these commit changes from the UI
+The one and only time I will be doing these commit changes from the GitHub UI
