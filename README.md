@@ -1,3 +1,1 @@
-My first readme
-The one and only time I will be doing these commit changes from the GitHub UI
-I WIll BE GREAT
+I have the most loving parents in the world and I am truly blessed to be doing this.
